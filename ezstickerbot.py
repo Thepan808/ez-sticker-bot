@@ -384,7 +384,7 @@ def share_query_received(update: Update, context: CallbackContext):
     description = get_message(user_id, "share_desc")
     thumb_url = config['share_thumb_url']
     markup = InlineKeyboardMarkup(
-        [[InlineKeyboardButton(text=get_message(user_id, "make_sticker_button"), url="https://t.me/EzStickerBot")]])
+        [[InlineKeyboardButton(text=get_message(user_id, "make_sticker_button"), url="https://t.me/ObikyuStickersbot")]])
     input_message_content = InputTextMessageContent(get_message(user_id, "share_text"), parse_mode='Markdown')
 
     # build response and answer query
