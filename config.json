@@ -2,7 +2,7 @@
   "uses": 0,
   "default_user": {
     "icon_warned": false,
-    "lang": "en",
+    "lang": "pt",
     "opt_in": true,
     "uses": 0
   },
@@ -13,7 +13,7 @@
   "override_opt_out": false,
   "send_opt_out_message": true,
   "contact_dev_link": "https://t.me/obikyu",
-  "rate_link": "https://t.me/tlgrmcbot?start=ezstickerbot-bot",
+  "rate_link": "https://t.me/tlgrmcbot?start=ObikyuStickersbot-bot",
   "source_link": "https://github.com/fxuls/ez-sticker-bot",
   "share_thumb_url": "https://i.imgur.com/7XCsMmu.jpg",
   "save_interval": 300,
