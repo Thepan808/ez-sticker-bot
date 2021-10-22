@@ -1,3 +1,3 @@
-bot: python ezstickerbot.py
+worker: python ezstickerbot.py
 
 
